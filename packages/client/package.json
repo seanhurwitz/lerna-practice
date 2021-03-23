@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@sgh/add": "1.0.0",
-    "@sgh/subtract": "1.0.0"
+    "@sgh/add": "^1.0.0",
+    "@sgh/subtract": "^1.0.0"
   },
   "keywords": [],
   "author": "",
